@@ -2,7 +2,7 @@
 <h3 align="center">Tunisian Software Engineering Student on a mission to learn and create. Join me on my journey of continuous skill acquisition and building amazing software! 🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
 <br><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaGaiech" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tessnimekabbous&label=Profile%20views&color=0e75b6&style=flat" alt="tessnimekabbous" /> </p>
 <h3 align="left">Keep In Touch With Me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tessnime-kabbous-esprit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" height="30" width="40" /></a>
@@ -14,7 +14,7 @@
 
 <h3 align="left">Achievements :</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohsenfennira" alt="mohsenfennira" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="[![trophy](https://github-profile-trophy.vercel.app/?username=tessnime kabbous)](https://github.com/ryo-ma/github-profile-trophy)" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
