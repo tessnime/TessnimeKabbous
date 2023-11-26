@@ -14,7 +14,7 @@
 
 <h3 align="left">Achievements :</h3>
 
-  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tessnimekabbous" alt="tessnimekabbous" /></a> </p>>
+  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tessnimekabbous" alt="tessnimekabbous" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
