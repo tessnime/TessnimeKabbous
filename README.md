@@ -1,4 +1,3 @@
-# TessnimeKabbous
 <h1 align="center">Hello 👋, I'm Tessnime Kabbous</h1> 
 <h3 align="center">Tunisian Software Engineering Student on a mission to learn and create. Join me on my journey of continuous skill acquisition and building amazing software! 🌟 </h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/woman-programmer-software-web-development-computer-girl-work-script-coding-programming_352905-203.jpg">
@@ -6,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=OumaymaaGaiech&label=Profile%20views&color=0e75b6&style=flat" alt="OumaymaaGaiech" /> </p>
 <h3 align="left">Keep In Touch With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tessnime-kabbous-esprit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" height="30" width="40" /></a>
 </p>
 - 🌱 I’m currently learning **DevOps**
 <br><br>
@@ -15,7 +14,7 @@
 
 <h3 align="left">Achievements :</h3>
 
-  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=OumaymaaGaiech" alt="OumaymaaGaiech" /></a> </p>
+  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=TessnimeKabbous" alt="TessnimeKabbous" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
