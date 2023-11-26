@@ -5,16 +5,18 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tessnimekabbous&label=Profile%20views&color=0e75b6&style=flat" alt="tessnimekabbous" /> </p>
 <h3 align="left">Keep In Touch With Me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/tessnime-kabbous-esprit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oumayma-gaiech-b691751a1/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tessnime-kabbous-esprit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tessnime-kabbous-b691751a1/" height="30" width="40" /></a>
 </p>
 - 🌱 I’m currently learning **DevOps**
 <br><br>
 - 📫 How to reach me **tessnime.kabbous@esprit.tn**
+<br><br>
+- 👨‍💻 All of my projects are available at https://tessnime-kabbous.netlify.app/
 
 
 <h3 align="left">Achievements :</h3>
 
-  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tessnimekabbous" alt="tessnimekabbous" /></a> </p>
+  <p > <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tessnime" alt="tessnime" /></a> </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -75,11 +77,11 @@
    <a href="https://symfony.com/what-is-symfony" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/symfony/symfony-icon.svg" alt="symfony" width="40" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/core/introduction" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-vertical.svg" alt="DotNet" width="40" height="40"/> </a>
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=OumaymaaGaiech&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="OumaymaaGaiech" /></p>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tessnime&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="tessnime" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=OumaymaaGaiech&show_icons=true&locale=en&theme=tokyonight" alt="OumaymaaGaiech" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tessnime&show_icons=true&locale=en&theme=tokyonight" alt="tessnimeKabbous" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=OumaymaaGaiech&&theme=tokyonight" alt="OumaymaaGaiech" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tessnime&&theme=tokyonight" alt="tessnimeKabbous" /></p>
 
  
 </p>
